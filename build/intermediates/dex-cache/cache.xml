@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhiprae\.android\build-cache\76cb5c10a797711c673e1f8e6b29aa44c46e1204\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="73591df4ec047e55db9415034d1dfab617fa9f3c">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\pre-dexed\debug\classes_9d429eeb4fce3eb06e837f64712355e77f8f9d53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhiprae\.android\build-cache\582281163e6b5debe672cb3d6320004c9d338928\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\pre-dexed\debug\classes_00715283c0f3dcc5bc18b3a79e4c95ba0397ae21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhiprae\.android\build-cache\fec2305f0ac5d78fa9cec4d388c46fcb6ba20ac2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\pre-dexed\debug\classes_beaa6df83a03956aa138b91b0e27ebcdbdbc16e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhiprae\.android\build-cache\06221f42af46f3978a2075c54f85fa5416476ae0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9aea94e7aa8a8ed235566a120aa52d8ace3d9fe4">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\pre-dexed\debug\classes_1c44c8411c8927f511a1cf3189639057bdd40724.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhiprae\.android\build-cache\a8fdd60d402ab2dd3e6e18bdb98fc08966ff5182\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\pre-dexed\debug\classes_1202cf70f361dd99695c2203413541f39cbb158f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhiprae\.android\build-cache\d4dccda4ceebb83c3cb1594ed67736bf339fcfb9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\pre-dexed\debug\classes_2fafe94d1e79e6353bc1ca65d570cd6a18b4be29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhiprae\.android\build-cache\3d85701691aa401b556e18557ecb496c91d6bc65\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\pre-dexed\debug\classes_0f6c349126c0768db77d947312aed55ee6955b81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhiprae\.android\build-cache\7da388bcad66e8285a8c6c9bc19360ae1d941003\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\pre-dexed\debug\classes_a54912dd35813789f0df30c39fa4df0b0807f91f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="49750aa23ae82c49e36af8947f239b8a9979c117">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_76ee064b591748d1d5c78dffbb98f6991c65d866\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhiprae\.android\build-cache\3266ea8cf8affe38f8acf14e1e17e134723f5412\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\pre-dexed\debug\classes_3043232fd8d4792875fc0f498c058dbe04c97af9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhiprae\.android\build-cache\4a736ce040355f8f1ae2badc63f6ec55de035106\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\pre-dexed\debug\classes_0bea43ff352115b0c5443209c06719ca169c7ae3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhiprae\.android\build-cache\2ce0993467ce140ffa5b845c74aa49b1662ef071\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\pre-dexed\debug\classes_8351bfecfc5f9f6c61e645bdf040b83508d1af5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhiprae\.gradle\caches\modules-2\files-2.1\com.twitter\twitter-text\1.13.0\78415b95ae3184c5926d593feab64bfc0b73b2dd\twitter-text-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78415b95ae3184c5926d593feab64bfc0b73b2dd">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\pre-dexed\debug\twitter-text-1.13.0_d111b34a95ae48e3e2d1704c293808e298c762c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhiprae\.android\build-cache\1982a2e792120c5d7d82277d6323788e53c47bb2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\pre-dexed\debug\classes_c1a947e65e923e1b8c4172e631a910b1152d51a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhiprae\.android\build-cache\04e8e6ab9e924e98b3a09cbf15aafefadc359c8d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43a08f2cc1bc8e9678b5a1740f3b91b50ab50ac6">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\pre-dexed\debug\classes_f28a86608c13a676d72636bb62971efdd491da68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhiprae\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_f2f7143d1db7e511acbec7b518c5614f49081ca1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhiprae\.android\build-cache\b4cd18c91a309beba0c0c09b0c2ab3a800d333c4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\pre-dexed\debug\classes_8878161b5d928a711ccf23c6b3c2adb2d6a7d243.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhiprae\.android\build-cache\bac9ad0cd1f044de142a4291df92d9e7dfec92f9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\pre-dexed\debug\classes_a826e707b4c38e86bb620f77998b084f8a445892.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhiprae\.android\build-cache\24e597605ec8ea130e8b8cce82fb34f2251b30b4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\pre-dexed\debug\classes_614d5e6884df92672c922d8b9536690244041955.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhiprae\.android\build-cache\9fa887b1251b7a9aeb6db516babcf175e84dac75\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\pre-dexed\debug\classes_664350f6f39dd7bc22d42697258844df73c3ccc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhiprae\.android\build-cache\6ae238930d7fcc930a3f24110726c2162acc8a27\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="895c63ba9782b04f0c5da69205216f6ec87119eb">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\pre-dexed\debug\classes_ba3ecd14b28dc7826b886470ec0dc301424e0b83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhiprae\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\pre-dexed\debug\retrofit-2.0.2_3ae40d4fe605f4ba3da870ddb2231e3c60e085ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhiprae\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\pre-dexed\debug\okio-1.6.0_c92494a0057ca90161a59c25c3a6b6cb0c9c5085.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhiprae\.android\build-cache\97b63764b5d2df7ddf29a0a3c8dc985f01ebb967\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="343ad59d9fb3bbf6ab99baafad859eb4b0fecc02">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\pre-dexed\debug\classes_4ecfc6682d6a5943bcbecbccfad3d1b9f106f75e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhiprae\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.2_0260e97910891ff5088f59137d2a8c44a9f48a2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhiprae\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.1\86b122e640af09b0723e1fa44083c354ba6d9089\glide-3.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\pre-dexed\debug\glide-3.6.1_37e97deb0cbfca534971ea8346221449cb2029c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhiprae\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_722f96dc9d317362baa844e01d6c31c8c42f022c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhiprae\.android\build-cache\648e427b42174905e6ba24ca7ff3966e58a00180\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a319fd4d548ba4cc9511561d37109ba922bfbf6a">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\pre-dexed\debug\classes_caa911b8f797b3274f9105504bb451afe8679e36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhiprae\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_013baf8dc4b91800b3138f60808124cb685666c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhiprae\.android\build-cache\b181b2d5232ba102852bc59ed96598b1d08077ee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\pre-dexed\debug\classes_e70e11ceaaeff32fb5b35b610f89f7a291f0f4c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhiprae\.android\build-cache\f081b80a3f96ecb71061d72e07a28d807afc348d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\pre-dexed\debug\classes_71105574610c36b3103b3f0b87db04ebe00b242c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhiprae\.android\build-cache\edece750de609f7b023e6ef3c67e69d6bbf778ba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\pre-dexed\debug\classes_b754c9d130da96c1e1adee41fb71e6cfe8d0d81f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhiprae\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0_31ef871417dd9e2d82e6c87e0618fdb1c2aa0bcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhiprae\.android\build-cache\7d68634dfd8396e024de2c4c7e665cbef4854ccc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\pre-dexed\debug\classes_e929a4cb10ece8d0681cac7be691feb2b6b412ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhiprae\.android\build-cache\0c74ac96af6e31a535cc5aa8ac470562c1805d31\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7308fa2037dac339ea04b90cdd17e87f835ea294">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\pre-dexed\debug\classes_99d49abc2e6aa63449ddaa0392d4e43175a5fcde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhiprae\.android\build-cache\b5dd44c87cfd553e503e7af304dbe2af4b80cb25\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\pre-dexed\debug\classes_5e83a6022566acaf3af88a9d9e32cf517031935d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhiprae\.android\build-cache\968df76c82cba4e00083c156a9c180dce5b5355f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\pre-dexed\debug\classes_bcac3f3a6ceba94718c3b6bf2622c0e1829c1b5c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_aeb4866156f7458e384cb491c2b6e065ef0a19ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhiprae\.android\build-cache\e049873311c3bdc66efb877d7f8dee3fe9868fd6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\pre-dexed\debug\classes_9d690174fbad02cba04603c6f40af83eab0f4c72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhiprae\.android\build-cache\8e02a88a53b7dfda118fc73bb7822ae1fbb69fed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a10ed1f1cff990ef081263ad33f13dc6c207eb4e">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\pre-dexed\debug\classes_ddc22b23c734598eb66931063d53a8621c82e35c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhiprae\.android\build-cache\72f81aa8aa64ab58b043de68aad5742308ee893e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\pre-dexed\debug\classes_7eee4c257456edfc12b5fef20f91fe65033055ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhiprae\.android\build-cache\a7bf4c640f6044c6fcf7dc4acc64d6a37cb424b0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\pre-dexed\debug\classes_b95d3f0829137622e62e4e40b59366c70b977732.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Abhiprae\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\iChat\app\build\intermediates\pre-dexed\debug\gson-2.6.1_4af7626c5abfc42f2d91a99fa85216f8f6555d3c.jar" />
+    </item>
+
+</items>
